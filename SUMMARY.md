@@ -22,4 +22,5 @@
    * [9 Things Every Consultant Should Know](9_things_every_consultant_should_know.md)
    * [Lessons from Job Number 7: The Honesty Paradox](lessons_from_job_number_7_the_honesty_paradox.md)
    * [Sometimes Tools Can Get In Your Way](sometimes_tools_can_get_in_your_way.md)
+   * The Middle Management Error Vendors Love Most
 
