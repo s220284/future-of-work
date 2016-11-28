@@ -13,6 +13,7 @@
    * [Should You Fear AI?](should_you_fear_ai.md)
    * [AlphaGo vs. You: Not a Fair Fight](alphago_vs_you_not_a_fair_fight.md)
 * [The Future of Work](the_future_of_work.md)
+   * What Will You Do After White-Collar Work?
 * [Corporate Life](corporate_life.md)
    * [Lessons from Job Number 7: The Honesty Paradox](lessons_from_job_number_7_the_honesty_paradox.md)
 
