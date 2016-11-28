@@ -6,7 +6,7 @@
    * [I'm Taking Your Job](im_taking_your_job.md)
    * [Rich Data, Poor Data: What the Data Rich Do - That the Data Poor and the Data Middle Class Do Not!](rich_data,_poor_data_what_the_data_rich_do_-_that_.md)
    * [6 Ways to Future-proof Your Job](6_ways_to_future-proof_your_job.md)
-   * Digitally Enhanced Marketers Will Be Unbeatable
+   * [Digitally Enhanced Marketers Will Be Unbeatable](digitally_enhanced_marketers_will_be_unbeatable.md)
 * [Social Media](social_media.md)
    * [Your Comfort Zone May Destroy the World](your_comfort_zone_may_destroy_the_world.md)
    * [Dani Mathers: When a Playboy Playmate Exposes Too Much](dani_mathers_when_a_playboy_playmate_exposes_too_m.md)
