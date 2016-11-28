@@ -19,4 +19,5 @@
    * [Sometimes Tools Can Get In Your Way](sometimes_tools_can_get_in_your_way.md)
    * Is Consulting Right For You? 7 Things to Consider
    * What will you do with the rest of your life?
+   * 9 Things Every Consultant Should Know
 
