@@ -16,6 +16,7 @@
    * [AlphaGo vs. You: Not a Fair Fight](alphago_vs_you_not_a_fair_fight.md)
 * [The Future of Work](the_future_of_work.md)
    * [What Will You Do After White-Collar Work?](what_will_you_do_after_white-collar_work.md)
+   * I've Talked to the Future and It Talked Back
 * [Corporate Life](corporate_life.md)
    * [The Middle Management Error Vendors Love Most](the_middle_management_error_vendors_love_most.md)
    * [What will you do with the rest of your life?](what_will_you_do_with_the_rest_of_your_life.md)
