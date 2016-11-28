@@ -8,5 +8,4 @@
    * [6 Ways to Future-proof Your Job](6_ways_to_future-proof_your_job.md)
 * [Social Media](social_media.md)
    * [Dani Mathers: When a Playboy Playmate Exposes Too Much](dani_mathers_when_a_playboy_playmate_exposes_too_m.md)
-   * Dani Mathers: When a Playboy Playmate Exposes Too Much
 
