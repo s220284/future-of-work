@@ -16,4 +16,5 @@
    * What Will You Do After White-Collar Work?
 * [Corporate Life](corporate_life.md)
    * [Lessons from Job Number 7: The Honesty Paradox](lessons_from_job_number_7_the_honesty_paradox.md)
+   * Sometimes Tools Can Get In Your Way
 
