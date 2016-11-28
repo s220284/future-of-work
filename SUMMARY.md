@@ -17,10 +17,10 @@
 * [The Future of Work](the_future_of_work.md)
    * [What Will You Do After White-Collar Work?](what_will_you_do_after_white-collar_work.md)
 * [Corporate Life](corporate_life.md)
+   * [The Middle Management Error Vendors Love Most](the_middle_management_error_vendors_love_most.md)
    * [What will you do with the rest of your life?](what_will_you_do_with_the_rest_of_your_life.md)
    * [Is Consulting Right For You? 7 Things to Consider](is_consulting_right_for_you_7_things_to_consider.md)
    * [9 Things Every Consultant Should Know](9_things_every_consultant_should_know.md)
    * [Lessons from Job Number 7: The Honesty Paradox](lessons_from_job_number_7_the_honesty_paradox.md)
    * [Sometimes Tools Can Get In Your Way](sometimes_tools_can_get_in_your_way.md)
-   * [The Middle Management Error Vendors Love Most](the_middle_management_error_vendors_love_most.md)
 
