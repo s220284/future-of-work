@@ -10,5 +10,5 @@
    * [Dani Mathers: When a Playboy Playmate Exposes Too Much](dani_mathers_when_a_playboy_playmate_exposes_too_m.md)
 * [Machine Learning & AI](machine_learning_&_ai.md)
    * [Should You Fear AI?](should_you_fear_ai.md)
-* The Future of Work
+* [The Future of Work](the_future_of_work.md)
 
