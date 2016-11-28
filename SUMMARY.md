@@ -17,7 +17,7 @@
 * [The Future of Work](the_future_of_work.md)
    * [What Will You Do After White-Collar Work?](what_will_you_do_after_white-collar_work.md)
 * [Corporate Life](corporate_life.md)
-   * What will you do with the rest of your life?
+   * [What will you do with the rest of your life?](what_will_you_do_with_the_rest_of_your_life.md)
    * Is Consulting Right For You? 7 Things to Consider
    * 9 Things Every Consultant Should Know
    * [Lessons from Job Number 7: The Honesty Paradox](lessons_from_job_number_7_the_honesty_paradox.md)
