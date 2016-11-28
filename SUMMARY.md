@@ -13,4 +13,5 @@
    * [Should You Fear AI?](should_you_fear_ai.md)
 * [The Future of Work](the_future_of_work.md)
 * [Corporate Life](corporate_life.md)
+   * Lessons from Job Number 7: The Honesty Paradox
 
