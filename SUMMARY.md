@@ -15,7 +15,7 @@
    * [Should You Fear AI?](should_you_fear_ai.md)
    * [AlphaGo vs. You: Not a Fair Fight](alphago_vs_you_not_a_fair_fight.md)
 * [The Future of Work](the_future_of_work.md)
-   * What Will You Do After White-Collar Work?
+   * [What Will You Do After White-Collar Work?](what_will_you_do_after_white-collar_work.md)
 * [Corporate Life](corporate_life.md)
    * What will you do with the rest of your life?
    * Is Consulting Right For You? 7 Things to Consider
