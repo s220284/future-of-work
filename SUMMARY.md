@@ -11,6 +11,7 @@
    * [Your Comfort Zone May Destroy the World](your_comfort_zone_may_destroy_the_world.md)
 * [Machine Learning & AI](machine_learning_&_ai.md)
    * [Should You Fear AI?](should_you_fear_ai.md)
+   * AlphaGo vs. You: Not a Fair Fight
 * [The Future of Work](the_future_of_work.md)
 * [Corporate Life](corporate_life.md)
    * [Lessons from Job Number 7: The Honesty Paradox](lessons_from_job_number_7_the_honesty_paradox.md)
