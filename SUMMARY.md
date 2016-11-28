@@ -18,4 +18,5 @@
    * [Lessons from Job Number 7: The Honesty Paradox](lessons_from_job_number_7_the_honesty_paradox.md)
    * [Sometimes Tools Can Get In Your Way](sometimes_tools_can_get_in_your_way.md)
    * Is Consulting Right For You? 7 Things to Consider
+   * What will you do with the rest of your life?
 
