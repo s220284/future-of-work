@@ -19,7 +19,7 @@
 * [Corporate Life](corporate_life.md)
    * What will you do with the rest of your life?
    * Is Consulting Right For You? 7 Things to Consider
+   * 9 Things Every Consultant Should Know
    * [Lessons from Job Number 7: The Honesty Paradox](lessons_from_job_number_7_the_honesty_paradox.md)
    * [Sometimes Tools Can Get In Your Way](sometimes_tools_can_get_in_your_way.md)
-   * 9 Things Every Consultant Should Know
 
