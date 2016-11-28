@@ -11,9 +11,9 @@
    * [Dani Mathers: When a Playboy Playmate Exposes Too Much](dani_mathers_when_a_playboy_playmate_exposes_too_m.md)
    * [Your Comfort Zone May Destroy the World](your_comfort_zone_may_destroy_the_world.md)
 * [Machine Learning & AI](machine_learning_&_ai.md)
+   * Can Machines Really Learn?
    * [Should You Fear AI?](should_you_fear_ai.md)
    * [AlphaGo vs. You: Not a Fair Fight](alphago_vs_you_not_a_fair_fight.md)
-   * Can Machines Really Learn?
 * [The Future of Work](the_future_of_work.md)
    * What Will You Do After White-Collar Work?
 * [Corporate Life](corporate_life.md)
